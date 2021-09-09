@@ -1,0 +1,4 @@
+C:\Users\sosog\source\repos\SoyisileConsole\SoyisileConsole\bin\Debug\netcoreapp3.1\SoyisileConsole.exe
+C:\Users\sosog\source\repos\SoyisileConsole\SoyisileConsole\obj\Debug\netcoreapp3.1\SoyisileConsole.csprojAssemblyReference.cache
+C:\Users\sosog\source\repos\SoyisileConsole\SoyisileConsole\obj\Debug\netcoreapp3.1\SoyisileConsole.AssemblyInfoInputs.cache
+C:\Users\sosog\source\repos\SoyisileConsole\SoyisileConsole\obj\Debug\netcoreapp3.1\SoyisileConsole.AssemblyInfo.cs

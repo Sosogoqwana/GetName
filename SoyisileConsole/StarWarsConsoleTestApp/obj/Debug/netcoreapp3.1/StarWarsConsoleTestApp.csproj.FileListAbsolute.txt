@@ -1,0 +1,3 @@
+C:\Users\sosog\source\repos\SoyisileConsole\StarWarsConsoleTestApp\obj\Debug\netcoreapp3.1\StarWarsConsoleTestApp.csprojAssemblyReference.cache
+C:\Users\sosog\source\repos\SoyisileConsole\StarWarsConsoleTestApp\obj\Debug\netcoreapp3.1\StarWarsConsoleTestApp.AssemblyInfoInputs.cache
+C:\Users\sosog\source\repos\SoyisileConsole\StarWarsConsoleTestApp\obj\Debug\netcoreapp3.1\StarWarsConsoleTestApp.AssemblyInfo.cs

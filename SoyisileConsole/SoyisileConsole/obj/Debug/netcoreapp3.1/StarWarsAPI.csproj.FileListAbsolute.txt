@@ -1,0 +1,4 @@
+C:\Users\sosog\source\repos\SoyisileConsole\SoyisileConsole\bin\Debug\netcoreapp3.1\StarWarsAPI.exe
+C:\Users\sosog\source\repos\SoyisileConsole\SoyisileConsole\obj\Debug\netcoreapp3.1\StarWarsAPI.csprojAssemblyReference.cache
+C:\Users\sosog\source\repos\SoyisileConsole\SoyisileConsole\obj\Debug\netcoreapp3.1\StarWarsAPI.AssemblyInfoInputs.cache
+C:\Users\sosog\source\repos\SoyisileConsole\SoyisileConsole\obj\Debug\netcoreapp3.1\StarWarsAPI.AssemblyInfo.cs
